@@ -2,7 +2,7 @@ package com.lucasvf.cursomc.domain;
 
 import javax.persistence.Entity;
 
-import com.lucasvf.cursomc.domain.Enums.EstadoPagamento;
+import com.lucasvf.cursomc.domain.enums.EstadoPagamento;
 
 @Entity
 public class PagamentoComCartao extends Pagamento{

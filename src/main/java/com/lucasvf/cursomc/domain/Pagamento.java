@@ -11,7 +11,7 @@ import javax.persistence.MapsId;
 import javax.persistence.OneToOne;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.lucasvf.cursomc.domain.Enums.EstadoPagamento;
+import com.lucasvf.cursomc.domain.enums.EstadoPagamento;
 
 
 @Entity
